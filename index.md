@@ -8,7 +8,7 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2025)
 <div class="col-md-9">
 
     <font color="#882885" size="2pt">
-        <p><big><i><b>21st August 2025, Rotterdam, The Netherlands</b></i></big></p>
+        <p><big><i><b>22nd August 2025, Rotterdam, The Netherlands</b></i></big></p>
     </font>
 
 <!--<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
