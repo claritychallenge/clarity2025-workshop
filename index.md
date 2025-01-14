@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning Challenges for Hearing Aids (Clarity-2025)
+title: Improving speech-in-noise for hearing devices (Clarity-2025)
 ---
 
 <div class="row">
@@ -15,35 +15,42 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2025)
       <button class="btn btn-primary">Click here to register me for the Clarity 2025 Workshop!</button>
     </a> -->
 
-We are now pleased to announce the 6th Clarity Workshop for Machine Learning Challenges for Hearing Aids, to be collocated with Interspeech 2025, Rotterdam, The Netherlands. This will be the first in-person Clarity event, following the format of the <a href="https://claritychallenge.org/clarity2023-workshop/">4th</a> Clarity workshop that was a satelite of Interspeech 2023.
+We are now pleased to announce the <strong>6th Clarity Workshop for Improving Speech-in-Noise for Hearing Devices</strong>, to be collocated with Interspeech 2025, Rotterdam, The Netherlands. This will be an in-person Clarity event, following the format of the <a href="https://claritychallenge.org/clarity2023-workshop/">4th</a> Clarity workshop that was a satellite of Interspeech 2023.
 
-<h2>About</h2>
-
-<p>One of the biggest challenges for hearing-impaired listeners is understanding speech in the presence of background noise. Everyday social noise levels can have a devastating impact on speech intelligibility. Inability to communicate effectively can lead to social withdrawal and isolation. Disabling hearing impairment affects 360 million people worldwide, with that number increasing because of the ageing population. Unfortunately, current hearing aid technology is often ineffective in noisy situations. Although amplification can restore audibility, it does not compensate fully for the effects of hearing loss.</p>
-
-<p>Recent advances in hearing aid hardware are presenting opportunities for increasingly sophisticated processing and machine learning solutions. For example, wireless communication between the hearing aid and a mobile device can allow non-latency critical computation to be freed from the low-power constraints attendant with traditional aids. These advances raise the prospect that the computationally demanding techniques employed with great success in statistical speech modelling and statistical acoustic scene analysis could soon be exploited for hearing aid processing. We believe that new directions in hearing aid research can be inspired by bringing together speech technologists and hearing researchers.</p>
-
-<p>The Clarity workshops are designed to stimulate a two-way conversation between the speech research community and hearing aid developers. Hearing aid developers, who are not typically represented at Interspeech, will have an opportunity to present the challenges of their industry to the speech community; the speech community will be able to present and discuss potentially transformative approaches to speech in noise processing in the presence of hearing researchers and industry experts.</p>
-
+<section>
+  <h2>About</h2>
+  <p>
+    Understanding <strong>speech in the presence of background noise</strong> remains one of the most significant challenges for hearing-impaired listeners. <strong>Social noise levels</strong> can drastically reduce speech intelligibility, leading to isolation and reduced quality of life. With over <strong>360 million people worldwide</strong> affected by disabling hearing impairment, this issue is exacerbated by an <strong>aging population</strong>. While amplification devices restore audibility, they often fail to address the complexities of noisy environments.
+  </p>
+  <p>
+    Recent advances in <strong>hearing aid devices</strong> and <strong>machine learning</strong> have opened the door to groundbreaking solutions. For example, advancements in <strong>low-power digital signal processors (DSPs)</strong> and <strong>edge AI hardware</strong> have equipped hearing aids with the ability to run simplified versions of deep learning models locally. Further, <strong>low energy wireless communication</strong> between hearing aids and mobile devices enables computationally demanding tasks to be offloaded, overcoming traditional power constraints. Techniques from <strong>statistical speech modeling</strong> and <strong>acoustic scene analysis</strong> can now be harnessed for hearing aid processing.
+  </p>
+  <p>
+    The <strong>Clarity Workshop</strong> provides a platform for collaboration between <strong>speech technologists</strong>, <strong>hearing researchers</strong>, and <strong>hearing aid developers</strong>. By fostering dialogue, we aim to inspire <strong>innovative approaches</strong> to addressing <strong>speech-in-noise challenges</strong> in real-world settings.
+  </p>
+</section>
 <h2>Topics</h2>
 
-<p>Any work related to the challenges of hearing aid signal processing will be considered relevant topics include,</p>
+<div>
+  <p>We welcome any work related to <strong>speech-in-noise processing for hearing devices</strong>, including (but not limited to) the following areas:</p>
 
-<ul>
-<li>Binaural technology for speech enhancement and source separation</li>
-<li>Multi-microphone processing technology</li>
-<li>Real-time approaches to speech enhancement</li>
-<li>Statistical model-driven approaches to hearing aid processing</li>
-<li>Audio quality & intelligibility assessment hearing aid and cochlear implant users</li>
-<li>Efficient and effective integration of psychoacoustic testing in machine learning</li>
-<li>Machine learning for diverse target listeners</li>
-<li>Machine learning models of hearing impairment</li>
-</ul>
+  <ul>
+    <li>Binaural technology for speech enhancement and source separation</li>
+    <li>Multi-microphone processing techniques</li>
+    <li>Real-time and low-latency approaches to speech enhancement</li>
+    <li>Statistical model-driven approaches to hearing aid processing</li>
+    <li>Machine learning for diverse target listeners</li>
+    <li>Machine learning models of hearing impairment</li>
+    <li>DNN-based speech enhancement under model size and low power constraints</li>
+    <li>Audio quality and intelligibility assessment for hearing aid and cochlear implant users</li>
+    <li>Efficient integration of psychoacoustic testing in machine learning</li>
+  </ul>
+</div>
 
 <h2>The 3rd Clarity Prediction Challenge</h2>
 
 <p>
-The Clarity-2025 will also host the 3rd Clarity Prediction Challenge, that is tacking the problem of developing new intrusive and non-intrusive approaches to hearing-aid speech intelligibility prediction. The Challenge will be launching on 1st March, is you may be interested in participating please sign up to our Google group for further announcements.
+Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developing innovative intrusive and non-intrusive methods for predicting hearing-aid speech intelligibility. The Challenge launches on 1st March. If you’re interested in participating, please sign up for our Google group to receive further updates.
 </p>
 
 </div>
@@ -53,7 +60,6 @@ The Clarity-2025 will also host the 3rd Clarity Prediction Challenge, that is ta
         <center>
             <font color="#882885"><b>Clarity-2025 Workshop</b></font>
         </center>
-        <!-- <center><i>Virtual Workshop</i></center> -->
         <h2>Organisers</h2>
 
         <div class="board-list">
@@ -72,23 +78,21 @@ The Clarity-2025 will also host the 3rd Clarity Prediction Challenge, that is ta
 
           <div class="board-list">
             <ul>
-                <li> TBD </li>
-            </ul>
+<li> Announcements coming soon! </li>            </ul>
 
          <h2> Invited Talks </h2>
 
           <div class="board-list">
             <ul>
-                <li> TBD </li>
-
+<li> Announcements coming soon! </li>
             </ul>
-            
+
         </div>
         <h2> Registration </h2>
 
         <div class="board-list">
             <ul>
-                <li> Registration to open April 2025</li>
+                <li> Registration opens in April 2025.</li>
              <!--   <li> Paper submission deadline 2nd June</li> -->
              <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>

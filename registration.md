@@ -19,8 +19,8 @@ title: Registration
 Registration fees will be,
 
 <ul>
-<li/> Full: 80 euros (TBC)
-<li/> Student: 60 euros (TBC)
+<li/> Full: 90 euros (TBC)
+<li/> Student: 70 euros (TBC)
 </ul>
 
 <p>There will be no late registration fee, i.e., the registration fee will remain the same until registration closes. Registration will close when the workshop is full or by 5th August 2025, whichever is sooner.
