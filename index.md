@@ -66,8 +66,10 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
             <ul>
                 <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
                 <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
+                <li> Fei Chen<br /> <a href="#" class="text-muted">Southern University of Science and Tech., China</a></li>
                 <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
                 <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
+                <li> Jordi de Vries <br /> <a href="#" class="text-muted">TU Ghent, The Netherlands</a></li>
                 <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
                 <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
                 <li> <a href="organisers.html"> More info </a> </li>

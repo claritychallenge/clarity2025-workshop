@@ -9,9 +9,10 @@ If you have any queries please contact the organisers by emailing <a href="mailt
     <div class="col-md-6">
         <div class="container">
             <ul>
-                    <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
-                    <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
-                    <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford </a></li>
+                    <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
+                    <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield, UK</a></li>
+                    <li> Fei Chen<br /> <a href="#" class="text-muted">Southern University of Science and Tech., China</a></li>
+                    <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK</a></li>
             </ul>
         </div>
     </div>
@@ -19,9 +20,10 @@ If you have any queries please contact the organisers by emailing <a href="mailt
     <div class="col-md-6">
         <div class="container">
             <ul>
-            <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff</a></li>
-            <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford </a></li>
-            <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham</a></li>
+            <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
+            <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK</a></li>
+            <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
+            <li> Jordi de Vries <br /> <a href="#" class="text-muted">TU Ghent, The Netherlands</a></li>
             </ul>
         </div>
     </div>
