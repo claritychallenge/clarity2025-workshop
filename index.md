@@ -19,30 +19,34 @@ We are now pleased to announce the <strong>6th Clarity Workshop for Improving Sp
 
 <section>
   <h2>About</h2>
+  
+  <p>Understanding speech in noisy environments is a significant challenge—not only for individuals with hearing impairment but also for users of <strong>hearables, communication headsets, and consumer audio devices</strong>. Background noise in social settings can drastically reduce <strong>speech intelligibility</strong>, increasing <strong>listening effort</strong> and diminishing overall <strong>communication clarity</strong>. While this issue is particularly critical for the <strong>over 360 million people worldwide with disabling hearing impairment</strong>, speech enhancement technologies also benefit <strong>professionals working in noisy environments</strong> and <strong>users of augmented listening devices</strong> seeking improved auditory experiences.</p>
+
+<p>
+   Recent advances in <strong>machine learning, digital signal processing (DSP), and edge AI</strong> have enabled groundbreaking solutions for both hearing aids and next-generation hearables.
+   <strong>Low-power AI models</strong> now provide real-time speech enhancement on <strong>hearing aids, hearables, and earbuds</strong>, while <strong>wireless connectivity</strong> allows cloud-assisted processing without sacrificing battery life. Additionally, <strong>speech separation, statistical speech modeling, and acoustic scene analysis</strong> are being integrated into consumer listening devices, enhancing speech intelligibility in noisy environments.
+</p>
+
   <p>
-    Understanding <strong>speech in the presence of background noise</strong> remains one of the most significant challenges for hearing-impaired listeners. <strong>Social noise levels</strong> can drastically reduce speech intelligibility, leading to isolation and reduced quality of life. With over <strong>360 million people worldwide</strong> affected by disabling hearing impairment, this issue is exacerbated by an <strong>aging population</strong>. While amplification devices restore audibility, they often fail to address the complexities of noisy environments.
-  </p>
-  <p>
-    Recent advances in <strong>hearing aid devices</strong> and <strong>machine learning</strong> have opened the door to groundbreaking solutions. For example, advancements in <strong>low-power digital signal processors (DSPs)</strong> and <strong>edge AI hardware</strong> have equipped hearing aids with the ability to run simplified versions of deep learning models locally. Further, <strong>low energy wireless communication</strong> between hearing aids and mobile devices enables computationally demanding tasks to be offloaded, overcoming traditional power constraints. Techniques from <strong>statistical speech modeling</strong> and <strong>acoustic scene analysis</strong> can now be harnessed for hearing aid processing.
-  </p>
-  <p>
-    The <strong>Clarity Workshop</strong> provides a platform for collaboration between <strong>speech technologists</strong>, <strong>hearing researchers</strong>, and <strong>hearing aid developers</strong>. By fostering dialogue, we aim to inspire <strong>innovative approaches</strong> to addressing <strong>speech-in-noise challenges</strong> in real-world settings.
+    The <strong>Clarity Workshop</strong> brings together researchers, engineers, and industry professionals working at the intersection of <strong>speech processing</strong>, <strong>auditory perception</strong>, and <strong>assistive technology</strong>. Whether your focus is on traditional hearing aids, hearables, or AI-powered speech enhancement, we invite you to join the discussion on the next generation of speech-in-noise solutions.
   </p>
 </section>
+
 <h2>Topics</h2>
 
 <div>
-  <p>We welcome any work related to <strong>speech-in-noise processing for hearing devices</strong>, including (but not limited to) the following areas:</p>
+
+<p>We welcome any work related to <strong>speech-in-noise processing for hearing enhancement devices</strong>, including (but not limited to) the following areas:</p>
 
   <ul>
     <li>Binaural technology for speech enhancement and source separation</li>
     <li>Multi-microphone processing techniques</li>
     <li>Real-time and low-latency approaches to speech enhancement</li>
     <li>Statistical model-driven approaches to hearing aid processing</li>
-    <li>Machine learning for diverse target listeners</li>
+    <li>Machine learning approaches for personalising amplification</li>
     <li>Machine learning models of hearing impairment</li>
     <li>DNN-based speech enhancement under model size and low power constraints</li>
-    <li>Audio quality and intelligibility assessment for hearing aid and cochlear implant users</li>
+  <li>Audio quality and intelligibility assessment for <strong>hearing aid, cochlear implant, and hearable users</strong></li>
     <li>Efficient integration of psychoacoustic testing in machine learning</li>
   </ul>
 </div>
@@ -69,9 +73,10 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
                 <li> Fei Chen<br /> <a href="#" class="text-muted">Southern University of Science and Tech., China</a></li>
                 <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
                 <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
-                <li> Jordi de Vries <br /> <a href="#" class="text-muted">TU Ghent, The Netherlands</a></li>
+                <li> Jennifer Firth<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
                 <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
                 <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
+                <li> Jordi de Vries <br /> <a href="#" class="text-muted">TU Ghent, The Netherlands</a></li>
                 <li> <a href="organisers.html"> More info </a> </li>
             </ul>
         </div>

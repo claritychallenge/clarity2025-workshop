@@ -21,6 +21,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
         <div class="container">
             <ul>
             <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
+            <li> Jennifer Firth<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
             <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK</a></li>
             <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
             <li> Jordi de Vries <br /> <a href="#" class="text-muted">TU Ghent, The Netherlands</a></li>
