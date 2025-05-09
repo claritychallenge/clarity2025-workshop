@@ -35,5 +35,10 @@ Please use the provided <a href="{{ "/assets/Clarity2025_paper_kit.tar.gz"| rela
 <!--<li/>For detailed instructions for preparing challenge submissions please refer to the <a href="https://claritychallenge.org/docs/cpc2/cpc2_intro">Clarity Prediction Challenge website</a>.-->
 <li/>All challenge participants will be invited to present a talk or a poster at the workshop.
 <li/>Abstracts will be reviewed to ensure that the challenge rules are met and that sufficient information is provided about the proposed system. Full papers (2 to 6 pages) will be due after the workshop and published in the workshop proceedings, provided that the review comments have been addressed.
-
 </ul>
+
+<p/>
+
+---
+
+<i>The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support</i>
