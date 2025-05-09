@@ -6,13 +6,13 @@ title: Important Dates
 <div class="row">
  <div class="col-md-6">
   
-    <h2>Workshop registration open</h2>
-        Mid April 2025
-
     <h2>2nd Clarity Prediction Challenge (CPC2) Launch</h2>
         1st March 2025
  
-    <h2>Workshop Paper Submission Deadline (Regular papers)</h2>
+    <h2>Workshop registration opens</h2>
+        End of May 2025
+
+   <h2>Workshop Paper Submission Deadline (Regular papers)</h2>
         2nd June 2025
 
     <h2>Acceptance notification</h2>

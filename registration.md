@@ -3,7 +3,7 @@ layout: page
 title: Registration
 ---
 
-<p/> Registration is to open mid April.
+<p/> Registration will open alongside Interspeech registration at the end of May.
 
 <p/> There will be two ways to register.
 

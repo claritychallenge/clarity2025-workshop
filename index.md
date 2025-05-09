@@ -8,14 +8,14 @@ title: Improving speech-in-noise for hearing devices (Clarity-2025)
 <div class="col-md-9">
 
     <font color="#882885" size="2pt">
-        <p><big><i><b>22nd August 2025, Rotterdam, The Netherlands</b></i></big></p>
+        <p><big><i><b>22nd August 2025, Delft, The Netherlands</b></i></big></p>
     </font>
 
 <!--<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
       <button class="btn btn-primary">Click here to register me for the Clarity 2025 Workshop!</button>
     </a> -->
 
-We are now pleased to announce the <strong>6th Clarity Workshop for Improving Speech-in-Noise for Hearing Devices</strong>, to be collocated with Interspeech 2025, Rotterdam, The Netherlands. This will be an in-person Clarity event, following the format of the <a href="https://claritychallenge.org/clarity2023-workshop/">4th</a> Clarity workshop that was a satellite of Interspeech 2023.
+We are now pleased to announce the <strong>6th Clarity Workshop for Improving Speech-in-Noise for Hearing Devices</strong>, to be collocated with Interspeech 2025, in Delft, close to Rotterdam, The Netherlands. This will be an in-person Clarity event, following the format of the <a href="https://claritychallenge.org/clarity2023-workshop/">4th</a> Clarity workshop that was a satellite of Interspeech 2023.
 
 <section>
   <h2>About</h2>
@@ -99,7 +99,7 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
 
         <div class="board-list">
             <ul>
-                <li> Registration opens in April 2025.</li>
+                <li> Registration opens end of May 2025.</li>
              <!--   <li> Paper submission deadline 2nd June</li> -->
              <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>
