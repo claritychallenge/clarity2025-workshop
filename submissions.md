@@ -10,10 +10,9 @@ Papers can be either related to the Clarity Prediction Challenge or to the works
 Papers can be submitted using the CMT conference system.
 
 <center>
-<!--    <a href="https://cmt3.research.microsoft.com/CLARITY2023" target="_blank">
+ <a href="https://cmt3.research.microsoft.com/CLARITY2025" target="_blank">
       <button class="btn btn-primary">Submit paper/abstract via CMT </button>
-    </a> -->
-    LINK TO APPEAR
+    </a>
   </center>
 
 <h2>Author kit</h2>
