@@ -109,7 +109,7 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
 
         <div class="board-list">
             <ul>
-             <li> Now open for <a href="submission.html">submissions</a></li> 
+             <li> Now open for <a href="submissions.html">submissions</a></li> 
              <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>
         </div></div>
