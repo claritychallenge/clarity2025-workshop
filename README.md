@@ -5,6 +5,6 @@
 Build locally with:
 
 ```bash
-rvm use 2.7.4
+rbenv local 3.2.2
 bundle exec jekyll serve
 ```

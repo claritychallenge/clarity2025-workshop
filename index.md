@@ -99,7 +99,8 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
 
         <div class="board-list">
             <ul>
-                <li> Registration opens end of May 2025.</li>
+            <li> Standalone registration <a href="registration.html">open now...</a> </li>
+                <li> Registration via Interspeech opens end of May 2025.</li>
              <!--   <li> Paper submission deadline 2nd June</li> -->
              <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>
