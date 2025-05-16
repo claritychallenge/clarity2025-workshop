@@ -21,7 +21,7 @@ title: Important Dates
     <h2>Camera-ready paper</h2>
     July 23th, 2025
 
-   <h2>CPC2 submission window</h2>
+   <h2>CPC3 submission window</h2>
    July 1st to July 31st, 2025
 
      <h2>Clarity-2023 Workshop and release of Challenge results</h2>

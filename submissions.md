@@ -23,7 +23,7 @@ Please use the provided <a href="{{ "/assets/Clarity2025_paper_kit.tar.gz"| rela
 <ul>
 <li/>We are accepting either extended abstracts (2-pages) and full papers (4-pages). In both cases references can extend onto an additional page. Full papers will be given preference for oral presentation.
 <li/>The submission deadline is 2nd June 23:59 Anywhere on Earth.
-<li/>Submissions will be reviewed by members of the Scientific Committee for novelty and quality. Authors will be notified by 10th July
+<li/>Submissions will be reviewed by members of the Scientific Committee for novelty and quality. Authors will be notified by 9th July
 <li/>Camera-ready versions of accepted papers will be due on 24th July.
 </ul>
 
