@@ -6,7 +6,7 @@ title: Important Dates
 <div class="row">
  <div class="col-md-6">
   
-    <h2>2nd Clarity Prediction Challenge (CPC2) Launch</h2>
+    <h2>3rd Clarity Prediction Challenge (CPC3) Launch</h2>
         1st March 2025
  
     <h2>Workshop registration opens</h2>
