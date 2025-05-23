@@ -81,18 +81,12 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
             </ul>
         </div>
 
-        <h2> Keynote Speakers </h2>
+        <h2> Invited Speakers </h2>
 
           <div class="board-list">
             <ul>
-<li> Announcements coming soon! </li>            </ul>
-
-         <h2> Invited Talks </h2>
-
-          <div class="board-list">
-            <ul>
-<li> Announcements coming soon! </li>
-            </ul>
+<Li> Bernd T Meyer <a href="#" class="text-muted">University of Oldenburg, Germany </a></li>
+<li> More coming soon! </li>            </ul>
 
         </div>
         <h2> Registration </h2>
