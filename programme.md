@@ -3,11 +3,7 @@ layout: page
 title: Programme
 ---
 
-Clarity-2025 will be a one-day workshop with a single track from 9:00 am to 5:00 pm.
-
-The morning will focus on hearing aid speech intelligibility prediction and will present the outcomes 3rd Clarity Prediction Challenge. The afternoon will focus on hearing aid speech enhancement.
-
-Timings and programme TBD
+Timings and session details are provided below. All times are in local time (i.e., **UTC+1**).
 
 <div class="panel panel-default">
 <div class="panel-body">
@@ -18,15 +14,28 @@ Timings and programme TBD
 
 <table style="margin-left: 1em;">
 <tbody>
-<tr><td>09:00</td><td>Welcome</td></tr>
+<tr><td>9:00</td><td>- Coffee / Pastries</td></tr>
+<tr><td>9:30</td><td>- Welcome </td></tr>
+<tr><td>9:40</td><td>- Keynote - Bernd T Meyer</td></tr>
+<tr><td>10:30</td><td>- The Clarity Prediction Challenge Overview</td></tr>
+<tr><td>10:50</td><td>- Coffee/Tea/Pastries</td></tr>
+<tr><td>11:10</td><td>- Prediction Challenge Poster session</td></tr>
+<tr><td>12:20</td><td>-  Top systems and prizes</td></tr>
+<tr><td>13:00</td><td>- Lunch</td></tr>
+<tr><td>14:00</td><td>- ISAAR/Clarity Discussion</td></tr>
+<tr><td></td><td>Future challenges</td></tr>
+<tr><td></td><td>Sustainability of future challenge activities</td></tr>
+<tr><td>15:00</td><td>- Coffee/Tea  (Posters Cont)</td></tr>
+<tr><td>15:20</td><td>- Oral Session / Hearing Aid Speech Enhancement + Other Topics </td></tr>
+<tr><td>17:00</td><td>- “From spoken speech to sung speech” - Cadenza Lyric Challenge</td></tr>
+<tr><td>17:20</td><td>- Close</td></tr>
 
-<tr><td>17:00</td><td>Close</td></tr>
 </tbody>
 </table>
 </div>
 </div>
 
-Links to technical reports and videos for all talks are provided in the programme below.
+Full programme details to appear.
 
 <h1>Invited Talk</h1>
 
