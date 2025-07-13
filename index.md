@@ -86,7 +86,7 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
           <div class="board-list">
             <ul>
 <Li> Bernd T Meyer <a href="#" class="text-muted">University of Oldenburg, Germany </a></li>
-<li> More coming soon! </li>            </ul>
+          </ul>
 
         </div>
         <h2> Registration </h2>
@@ -94,20 +94,28 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
         <div class="board-list">
             <ul>
             <li> Standalone registration <a href="registration.html">open now...</a> </li>
-                <li> Registration via Interspeech opens end of May 2025.</li>
+                <li> Registration via Interspeech <a href="https://www.interspeech2025.org/home">open now...</a></li>
              <!--   <li> Paper submission deadline 2nd June</li> -->
              <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>
         </div>
 
-           <h2> Submission </h2>
+        <h2> Programme </h2>
+
+   <div class="board-list">
+            <ul>
+            <li> <a href="programme.html">Programme details available...</a> </li>
+            </ul>
+        </div>
+
+        <!--     <h2> Submission </h2>
 
         <div class="board-list">
             <ul>
              <li> Now open for <a href="submissions.html">submissions</a></li> 
-             <!--    <li> <a href="dates.html">More info</a> </li> -->
+               <li> <a href="dates.html">More info</a> </li> 
             </ul>
-        </div></div>
+        </div></div>. -->
 
 </div>
 

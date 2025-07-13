@@ -35,8 +35,6 @@ Timings and session details are provided below. All times are in local time (i.e
 </div>
 </div>
 
-Full programme details to appear.
-
 <h1>Invited Talk</h1>
 
 <div class="card m-3 mt-4">
@@ -81,6 +79,116 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 
 </div>
 </div>
+</div>
+<!---------------------------------------------------->
+
+<h1>Clarity Prediction Challenge</h1>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">10:30-10:50</td><td style="padding: 5px;"><b> The 3rd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b> <br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Jennifer Firth<sup>2</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> (<sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i> </td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">11:10-12:20</td><td style="padding: 5px;"><b> The CPC3 Poster Session
+  </b><br /> Papers/Authors TBA </td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">12:20-12:40</td><td style="padding: 5px;"><b> System Paper 1
+  </b><br /> (Authors TBA) </td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">12:40-13:00</td><td style="padding: 5px;"><b> Systen Paper 2
+  </b><br /> (Authors TBA) </td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+<!---------------------------------------------------->
+
+<h1>ISAAR/Clarity Discussion Session</h1>
+
+There will be a one hour discussion session that will link up the International Symposium on Auditory and Audiological Research (<a href="https://isaar.eu/">ISAAR-2025</a>) and the Clarity workshop. The discussion will bring speech and hearing researchers together to discuss the future priorities for hearing device machine learning challneges. What are the needs of hearing device users? What opportunities does machine learning provide for addressing these needs?
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:00-14:10</td><td style="padding: 5px;"><b> Opening Remarks: ISAAR Workshop
+  </b> </td> </tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:00-14:10</td><td style="padding: 5px;"><b> Opening Remarks: Clarity Workshop
+  </b> </td> </tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:20-14:50</td><td style="padding: 5px;"><b> Discussion
+  </b> </td> </tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:50-15:00</td><td style="padding: 5px;"><b> Summary/Conclusion
+  </b> </td> </tr>
+
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+Further session details to appear.
+
+<!---------------------------------------------------->
+
+<h1>Hearing Aid Speech Enhancement + Other Topics</h1>
+
+The session will consist of oral presentations each of up to 20 minutes with 5 minutes for Q&A.
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">15:20-15:45</td><td style="padding: 5px;"><b> The Dawn of Psychoacoustic Reverse Correlation: A Data-Driven Methodology for Determining Fine Grained Perceptual Cues of Speech Clarity
+  </b><br /> <span class="author">Paige Tuttösi<sup>1</sup>, Henny Yeung<sup>1</sup>, Yue Wang<sup>1</sup>, Jean-Julien Aucouturier<sup>2</sup>, Angelica Lim<sup>1</sup>
+</span> (<i>Simon Fraser University, US<sup>1</sup>; Institut FEMTO-ST, France<sup>2</sup></i>)</td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">15:45-16:10</td><td style="padding: 5px;"><b> TF-MLPNet: Tiny Real-Time Neural Speech Separation  </b><br /> <span class="author">Malek Itani, Tuochao Chen, Shyam Gollakota </span> (<i>University of Washington, US</i>)</td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:10-16:35</td><td style="padding: 5px;"><b> Controllable joint noise reduction and hearing loss compensation using a differentiable auditory model  </b><br /> <span class="author">Philippe Gonzalez, Tobias May, Torstan Dau</span> <i>(Technical University of Denmark)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><br /> <span class="author">Akam Rahimil, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
 <!---------------------------------------------------->
 
 </div>
