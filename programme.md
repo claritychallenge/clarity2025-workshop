@@ -20,8 +20,8 @@ Timings and session details are provided below. All times are in local time (i.e
 <tr><td>10:30</td><td>- The Clarity Prediction Challenge Overview</td></tr>
 <tr><td>10:50</td><td>- Coffee/Tea/Pastries</td></tr>
 <tr><td>11:10</td><td>- Prediction Challenge Poster session</td></tr>
-<tr><td>12:20</td><td>-  Top systems and prizes</td></tr>
-<tr><td>13:00</td><td>- Lunch</td></tr>
+<tr><td>12:10</td><td>- Prediction Challenge Oral session and prizes</td></tr>
+<tr><td>13:10</td><td>- Lunch</td></tr>
 <tr><td>14:00</td><td>- ISAAR/Clarity Discussion</td></tr>
 <tr><td></td><td>Future challenges</td></tr>
 <tr><td></td><td>Sustainability of future challenge activities</td></tr>
@@ -84,6 +84,8 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 
 <h1>Clarity Prediction Challenge</h1>
 
+<h2> Overview </h2>
+
 <div class="card  m-3">
 <div class="card-body">
 
@@ -94,18 +96,95 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 <td valign="top" style="margin-right: 5em; padding: 5px;">10:30-10:50</td><td style="padding: 5px;"><b> The 3rd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b> <br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Jennifer Firth<sup>2</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> (<sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i> </td>
 </tr>
 
+</tbody>
+</table>
+
+</div>
+</div>
+
+<h2> Poster Session </h2>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">11:10-12:20</td><td style="padding: 5px;"><b> The CPC3 Poster Session
-  </b><br /> Papers/Authors TBA </td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">11:10-12:10</td><td style="padding: 5px;"><b> The CPC3 Poster Session
+  </b> </td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">12:20-12:40</td><td style="padding: 5px;"><b> System Paper 1
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 1</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 2</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 3</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 4</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 5</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 6</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 7</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 8</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 9</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 10</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Title  </b><br /> <span class="author">Authors</span> <i>(Affiliation)</i></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
+<h2> Oral Session </h2>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">12:10-12:30</td><td style="padding: 5px;"><b> Paper 1
   </b><br /> (Authors TBA) </td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">12:40-13:00</td><td style="padding: 5px;"><b> Systen Paper 2
+<td valign="top" style="margin-right: 5em; padding: 5px;">12:30-12:50</td><td style="padding: 5px;"><b> Paper 2
+  </b><br /> (Authors TBA) </td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">12:50-13:10</td><td style="padding: 5px;"><b> Paper 3
   </b><br /> (Authors TBA) </td>
 </tr>
 
@@ -190,6 +269,3 @@ The session will consist of oral presentations each of up to 20 minutes with 5 m
 </div>
 
 <!---------------------------------------------------->
-
-</div>
-</div>
