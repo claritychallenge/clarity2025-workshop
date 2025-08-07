@@ -104,7 +104,7 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
 
    <div class="board-list">
             <ul>
-            <li> <a href="programme.html">Programme details available...</a> </li>
+            <li> <a href="programme.html">Full programme details now available...</a> </li>
             </ul>
         </div>
 

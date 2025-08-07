@@ -16,17 +16,17 @@ Timings and session details are provided below. All times are in local time (i.e
 <tbody>
 <tr><td>9:00</td><td>- Coffee / Pastries</td></tr>
 <tr><td>9:30</td><td>- Welcome </td></tr>
-<tr><td>9:40</td><td>- Keynote - Bernd T Meyer</td></tr>
-<tr><td>10:30</td><td>- The Clarity Prediction Challenge Overview</td></tr>
+<tr><td>9:40</td><td>- <a href="#keynote">Keynote - Bernd T Meyer</a></td></tr>
+<tr><td>10:30</td><td>- <a href="#overview">The Clarity Prediction Challenge Overview</a></td></tr>
 <tr><td>10:50</td><td>- Coffee/Tea/Pastries</td></tr>
-<tr><td>11:10</td><td>- Prediction Challenge Poster session</td></tr>
-<tr><td>12:10</td><td>- Prediction Challenge Oral session and prizes</td></tr>
+<tr><td>11:10</td><td>- <a href="#poster">Prediction Challenge Poster session</a></td></tr>
+<tr><td>12:10</td><td>- <a href="#oral1">Prediction Challenge Oral session and prizes</a></td></tr>
 <tr><td>13:10</td><td>- Lunch</td></tr>
-<tr><td>14:00</td><td>- ISAAR/Clarity Discussion</td></tr>
+<tr><td>14:00</td><td>- <a href="#discussion">ISAAR/Clarity Discussion</a></td></tr>
 <tr><td></td><td>Future challenges</td></tr>
 <tr><td></td><td>Sustainability of future challenge activities</td></tr>
 <tr><td>15:00</td><td>- Coffee/Tea  (Posters Cont)</td></tr>
-<tr><td>15:20</td><td>- Oral Session / Hearing Aid Speech Enhancement + Other Topics </td></tr>
+<tr><td>15:20</td><td>- <a href="#oral2">Oral Session / Hearing Aid Speech Enhancement + Other Topics </a> </td></tr>
 <tr><td>17:00</td><td>- “From spoken speech to sung speech” - Cadenza Lyric Challenge</td></tr>
 <tr><td>17:20</td><td>- Close</td></tr>
 
@@ -35,7 +35,7 @@ Timings and session details are provided below. All times are in local time (i.e
 </div>
 </div>
 
-<h1>Invited Talk</h1>
+<h1 id="keynote">Invited Talk</h1>
 
 <div class="card m-3 mt-4">
   <a name="keynote"></a>
@@ -82,7 +82,7 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 </div>
 <!---------------------------------------------------->
 
-<h1>Clarity Prediction Challenge</h1>
+<h1 id="overview">Clarity Prediction Challenge</h1>
 
 <h2> Overview </h2>
 
@@ -102,7 +102,7 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 </div>
 </div>
 
-<h2> Poster Session </h2>
+<h2 id="poster"> Poster Session </h2>
 
 <div class="card  m-3">
 <div class="card-body">
@@ -167,7 +167,7 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 </div>
 </div>
 
-<h2> Oral Session </h2>
+<h2 id="oral1"> Oral Session </h2>
 
 <div class="card  m-3">
 <div class="card-body">
@@ -197,7 +197,7 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 </div>
 <!---------------------------------------------------->
 
-<h1>ISAAR/Clarity Discussion Session</h1>
+<h1 id="discussion">ISAAR/Clarity Discussion Session</h1>
 
 There will be a one hour discussion session that will link up the International Symposium on Auditory and Audiological Research (<a href="https://isaar.eu/">ISAAR-2025</a>) and the Clarity workshop. The discussion will bring speech and hearing researchers together to discuss the future priorities for hearing device machine learning challneges. What are the needs of hearing device users? What opportunities does machine learning provide for addressing these needs?
 
@@ -234,7 +234,7 @@ Further session details to appear.
 
 <!---------------------------------------------------->
 
-<h1>Hearing Aid Speech Enhancement + Other Topics</h1>
+<h1 id="oral2">Hearing Aid Speech Enhancement + Other Topics</h1>
 
 The session will consist of oral presentations each of up to 20 minutes with 5 minutes for Q&A.
 
