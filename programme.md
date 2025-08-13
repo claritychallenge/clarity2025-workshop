@@ -160,11 +160,7 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Title TBC  </b><br /> <span class="author">Vahid Ashkani Chenarlogh (TBC)</span> <i>(Western University, Canada)</i></td>
-</tr>
-
-<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 12</td><td style="padding: 5px;"><b> Modeling normal and impaired hearing with deep neural networks optimized for ecological tasks </b><br /> <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Modeling normal and impaired hearing with deep neural networks optimized for ecological tasks </b><br /> <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i></td>
 </tr>
 
 </tbody>
@@ -218,7 +214,7 @@ There will be a one hour discussion session that will link up the International 
   </b> </td> </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">14:00-14:10</td><td style="padding: 5px;"><b> Opening Remarks: Clarity Workshop
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:10-14:20</td><td style="padding: 5px;"><b> Opening Remarks: Clarity Workshop
   </b> </td> </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
