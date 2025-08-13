@@ -27,7 +27,9 @@ Timings and session details are provided below. All times are in local time (i.e
 <tr><td></td><td>Sustainability of future challenge activities</td></tr>
 <tr><td>15:00</td><td>- Coffee/Tea  (Posters Cont)</td></tr>
 <tr><td>15:20</td><td>- <a href="#oral2">Oral Session / Hearing Aid Speech Enhancement + Other Topics </a> </td></tr>
-<tr><td>17:00</td><td>- “From spoken speech to sung speech” - Cadenza Lyric Challenge</td></tr>
+<tr><td>17:00</td><td>- <a href="#next">Next steps</a></td></tr>
+<tr><td></td><td>From spoken speech to sung speech - Cadenza Lyric Challenge</td></tr>
+<tr><td></td><td>Conversation in noise  - CHiME-9 ECHI Challenge</td></tr>
 <tr><td>17:20</td><td>- Close</td></tr>
 
 </tbody>
@@ -158,7 +160,11 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Title TBC  </b><br /> <span class="author">Vahid Ashkanichenarlogh (TBC)</span> <i>(Western University, Canada)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Title TBC  </b><br /> <span class="author">Vahid Ashkani Chenarlogh (TBC)</span> <i>(Western University, Canada)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 12</td><td style="padding: 5px;"><b> Modeling normal and impaired hearing with deep neural networks optimized for ecological tasks </b><br /> <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i></td>
 </tr>
 
 </tbody>
@@ -199,7 +205,7 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 
 <h1 id="discussion">ISAAR/Clarity Discussion Session</h1>
 
-There will be a one hour discussion session that will link up the International Symposium on Auditory and Audiological Research (<a href="https://isaar.eu/">ISAAR-2025</a>) and the Clarity workshop. The discussion will bring speech and hearing researchers together to discuss the future priorities for hearing device machine learning challneges. What are the needs of hearing device users? What opportunities does machine learning provide for addressing these needs?
+There will be a one hour discussion session that will link up the International Symposium on Auditory and Audiological Research (<a href="https://isaar.eu/">ISAAR-2025</a>) and the Clarity workshop. The discussion will bring speech and hearing researchers together to discuss the future priorities for hearing device machine learning challenges. What are the needs of hearing device users? What opportunities does machine learning provide for addressing these needs?
 
 <div class="card  m-3">
 <div class="card-body">
@@ -271,3 +277,31 @@ The session will consist of oral presentations each of up to 20 minutes with 5 m
 </div>
 
 <!---------------------------------------------------->
+
+<h1 id="next">Next Steps</h1>
+
+Presenting upcoming/ongoing machine challenges relevant to the community.
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">17:00-17:10</td><td style="padding: 5px;"><b> From spoken speech to sung speech - Cadenza Lyric Challenge
+  </b><br /> <span class="author"> Micheal Akeroyd<sup>2</sup>, Scott Bannister<sup>1</sup>, Jon Barker<sup>4</sup>, Trevor Cox<sup>3</sup>, Bruno Fazenda<sup>3</sup>, Simone Graetzer<sup>3</sup>, Alinka Greasley<sup>1</sup>, Gerardo Roa<sup>4</sup>, Rebecca Vos<sup>3</sup>, William Whitmer<sup>2</sup> </span> ( <i><sup>1</sup>University of Leeds, UK; <sup>2</sup>University of Nottingham, UK; <sup>3</sup>University of Salford, UK; <sup>4</sup>University of Sheffield, UK</i>)</td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">17:10-17:20</td><td style="padding: 5px;"><b> Processing conversations in noise - CHiME-9 ECHI Challenge
+  </b><br /> <span class="author"> Jon Barker<sup>1</sup>, Stefan Goetze<sup>1</sup>, Robert Sutherland<sup>1</sup>, Marko Lugger<sup>2</sup>, Thomas Kuebert<sup>2</sup>, Stefan Petrausch<sup>2</sup>, Juan Azcarreta Ortiz<sup>3</sup>, Buye Xu<sup>3</sup> </span> ( <i> <sup>1</sup>University of Sheffield, UK; <sup>2</sup>WSAudiology, Germany; <sup>3</sup>Meta Reality Labs Research, UK</i>)</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
