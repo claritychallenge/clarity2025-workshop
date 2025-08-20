@@ -269,7 +269,7 @@ The session will consist of oral presentations each of up to 20 minutes with 5 m
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><br /> <span class="author">Akam Rahimil, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><br /> <span class="author">Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
 </tr>
 
 </tbody>
