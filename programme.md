@@ -15,12 +15,12 @@ Timings and session details are provided below. All times are in local time (i.e
 <table style="margin-left: 1em;">
 <tbody>
 <tr><td>9:00</td><td>- Coffee / Pastries</td></tr>
-<tr><td>9:30</td><td>- Welcome </td></tr>
-<tr><td>9:40</td><td>- <a href="#keynote">Keynote - Bernd T Meyer</a></td></tr>
-<tr><td>10:30</td><td>- <a href="#overview">The Clarity Prediction Challenge Overview</a></td></tr>
+<tr><td>9:25</td><td>- Welcome </td></tr>
+<tr><td>9:35</td><td>- <a href="#keynote">Keynote - Bernd T Meyer</a></td></tr>
+<tr><td>10:25</td><td>- <a href="#overview">The Clarity Prediction Challenge Overview + Prizes</a></td></tr>
 <tr><td>10:50</td><td>- Coffee/Tea/Pastries</td></tr>
 <tr><td>11:10</td><td>- <a href="#poster">Prediction Challenge Poster session</a></td></tr>
-<tr><td>12:10</td><td>- <a href="#oral1">Prediction Challenge Oral session and prizes</a></td></tr>
+<tr><td>12:10</td><td>- <a href="#oral1">Prediction Challenge Oral session</a></td></tr>
 <tr><td>13:10</td><td>- Lunch</td></tr>
 <tr><td>14:00</td><td>- <a href="#discussion">ISAAR/Clarity Discussion</a></td></tr>
 <tr><td></td><td>Future challenges</td></tr>
@@ -106,6 +106,8 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 
 <h2 id="poster"> Poster Session </h2>
 
+<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: Jennifer Firth</p>
+
 <div class="card  m-3">
 <div class="card-body">
 
@@ -171,6 +173,8 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 
 <h2 id="oral1"> Oral Session </h2>
 
+<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: Jon Barker</p>
+
 <div class="card  m-3">
 <div class="card-body">
 
@@ -200,6 +204,8 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 <!---------------------------------------------------->
 
 <h1 id="discussion">ISAAR/Clarity Discussion Session</h1>
+
+<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: Simone Graetzer</p>
 
 There will be a one hour discussion session that will link up the International Symposium on Auditory and Audiological Research (<a href="https://isaar.eu/">ISAAR-2025</a>) and the Clarity workshop. The discussion will bring speech and hearing researchers together to discuss the future priorities for hearing device machine learning challenges. What are the needs of hearing device users? What opportunities does machine learning provide for addressing these needs?
 
@@ -237,6 +243,8 @@ Further session details to appear.
 <!---------------------------------------------------->
 
 <h1 id="oral2">Hearing Aid Speech Enhancement + Other Topics</h1>
+
+<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: TBC</p>
 
 The session will consist of oral presentations each of up to 20 minutes with 5 minutes for Q&A.
 
