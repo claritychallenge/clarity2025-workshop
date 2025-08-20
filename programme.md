@@ -244,7 +244,7 @@ Further session details to appear.
 
 <h1 id="oral2">Hearing Aid Speech Enhancement + Other Topics</h1>
 
-<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: TBC</p>
+<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: Jesper Jensen</p>
 
 The session will consist of oral presentations each of up to 20 minutes with 5 minutes for Q&A.
 
@@ -253,8 +253,6 @@ The session will consist of oral presentations each of up to 20 minutes with 5 m
 
 <table>
 <tbody>
-
-<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">15:20-15:45</td><td style="padding: 5px;"><b> The Dawn of Psychoacoustic Reverse Correlation: A Data-Driven Methodology for Determining Fine Grained Perceptual Cues of Speech Clarity
