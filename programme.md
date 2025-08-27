@@ -294,12 +294,12 @@ Presenting upcoming/ongoing machine challenges relevant to the community.
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">17:00-17:10</td><td style="padding: 5px;"><b> From spoken speech to sung speech - Cadenza Lyric Challenge
-  </b><br /> <span class="author"> Micheal Akeroyd<sup>2</sup>, Scott Bannister<sup>1</sup>, Jon Barker<sup>4</sup>, Trevor Cox<sup>3</sup>, Bruno Fazenda<sup>3</sup>, Simone Graetzer<sup>3</sup>, Alinka Greasley<sup>1</sup>, Gerardo Roa<sup>4</sup>, Rebecca Vos<sup>3</sup>, William Whitmer<sup>2</sup> </span> ( <i><sup>1</sup>University of Leeds, UK; <sup>2</sup>University of Nottingham, UK; <sup>3</sup>University of Salford, UK; <sup>4</sup>University of Sheffield, UK</i>)</td>
+  </b><a href="./slides/clarity2025_clip_challenge.pdf">[Slides]</a><br /> <span class="author"> Micheal Akeroyd<sup>2</sup>, Scott Bannister<sup>1</sup>, Jon Barker<sup>4</sup>, Trevor Cox<sup>3</sup>, Bruno Fazenda<sup>3</sup>, Simone Graetzer<sup>3</sup>, Alinka Greasley<sup>1</sup>, Gerardo Roa<sup>4</sup>, Rebecca Vos<sup>3</sup>, William Whitmer<sup>2</sup> </span> ( <i><sup>1</sup>University of Leeds, UK; <sup>2</sup>University of Nottingham, UK; <sup>3</sup>University of Salford, UK; <sup>4</sup>University of Sheffield, UK</i>)</td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">17:10-17:20</td><td style="padding: 5px;"><b> Processing conversations in noise - CHiME-9 ECHI Challenge
-  </b><br /> <span class="author"> Jon Barker<sup>1</sup>, Stefan Goetze<sup>1</sup>, Robert Sutherland<sup>1</sup>, Marko Lugger<sup>2</sup>, Thomas Kuebert<sup>2</sup>, Stefan Petrausch<sup>2</sup>, Juan Azcarreta Ortiz<sup>3</sup>, Buye Xu<sup>3</sup> </span> ( <i> <sup>1</sup>University of Sheffield, UK; <sup>2</sup>WSAudiology, Germany; <sup>3</sup>Meta Reality Labs Research, UK</i>)</td>
+  </b><a href="./slides/clarity2025_echi_challenge.pdf">[Slides]</a><br /> Robert Sutherland<sup>1</sup>, Marko Lugger<sup>2</sup>, Thomas Kuebert<sup>2</sup>, Stefan Petrausch<sup>2</sup>, Juan Azcarreta Ortiz<sup>3</sup>, Buye Xu<sup>3</sup>, Stefan Goetze<sup>1</sup>, <span class="author"> Jon Barker<sup>1</sup> </span> ( <i> <sup>1</sup>University of Sheffield, UK; <sup>2</sup>WSAudiology, Germany; <sup>3</sup>Meta Reality Labs Research, UK</i>)</td>
 </tr>
 
 </tbody>
