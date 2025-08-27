@@ -256,20 +256,20 @@ The session will consist of oral presentations each of up to 20 minutes with 5 m
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">15:20-15:45</td><td style="padding: 5px;"><b> The Dawn of Psychoacoustic Reverse Correlation: A Data-Driven Methodology for Determining Fine Grained Perceptual Cues of Speech Clarity
-  </b><br /> <span class="author">Paige Tuttösi<sup>1</sup>, Henny Yeung<sup>1</sup>, Yue Wang<sup>1</sup>, Jean-Julien Aucouturier<sup>2</sup>, Angelica Lim<sup>1</sup>
+  </b><a href="./papers/clarity2025_prefinal_tuttosi.pdf">[Paper]</a> <br /> <span class="author">Paige Tuttösi<sup>1</sup>, Henny Yeung<sup>1</sup>, Yue Wang<sup>1</sup>, Jean-Julien Aucouturier<sup>2</sup>, Angelica Lim<sup>1</sup>
 </span> ( <i><sup>1</sup>Simon Fraser University, US; <sup>2</sup>Institut FEMTO-ST, France</i>)</td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">15:45-16:10</td><td style="padding: 5px;"><b> TF-MLPNet: Tiny Real-Time Neural Speech Separation  </b><br /> <span class="author">Malek Itani, Tuochao Chen, Shyam Gollakota </span> (<i>University of Washington, US</i>)</td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">15:45-16:10</td><td style="padding: 5px;"><b> TF-MLPNet: Tiny Real-Time Neural Speech Separation  </b><a href="./papers/clarity2025_prefinal_itani.pdf">[Paper]</a> <br /> <span class="author">Malek Itani, Tuochao Chen, Shyam Gollakota </span> (<i>University of Washington, US</i>)</td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">16:10-16:35</td><td style="padding: 5px;"><b> Controllable joint noise reduction and hearing loss compensation using a differentiable auditory model  </b><br /> <span class="author">Philippe Gonzalez, Tobias May, Torstan Dau</span> <i>(Technical University of Denmark)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:10-16:35</td><td style="padding: 5px;"><b> Controllable joint noise reduction and hearing loss compensation using a differentiable auditory model  </b><a href="./papers/clarity2025_prefinal_gonzalez.pdf">[Paper]</a> <br /> <span class="author">Philippe Gonzalez, Tobias May, Torstan Dau</span> <i>(Technical University of Denmark)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><br /> <span class="author">Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><a href="./papers/clarity2025_prefinal_rahimi.pdf">[Paper]</a> <br /> <span class="author">Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
 </tr>
 
 </tbody>
