@@ -95,7 +95,7 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 <tbody>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">10:30-10:50</td><td style="padding: 5px;"><b> The 3rd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b> <br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Jennifer Firth<sup>2</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> ( <sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i> </td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">10:30-10:50</td><td style="padding: 5px;"><b> The 3rd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b>  <a href="./slides/clarity2025_cpc3_overview.pdf">[Slides]</a> <br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Jennifer Firth<sup>2</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> ( <sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i> </td>
 </tr>
 
 </tbody>
@@ -216,15 +216,11 @@ There will be a one hour discussion session that will link up the International 
 <tbody>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">14:00-14:10</td><td style="padding: 5px;"><b> Opening Remarks: ISAAR Workshop
-  </b> </td> </tr>
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:00-14:10</td><td style="padding: 5px;"><b> Opening Remarks: Clarity Workshop / ISAAR Workshop
+  </b> <a href="./slides/clarity2025_discussion.pdf">[Slides]</a></td> </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">14:10-14:20</td><td style="padding: 5px;"><b> Opening Remarks: Clarity Workshop
-  </b> </td> </tr>
-
-<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">14:20-14:50</td><td style="padding: 5px;"><b> Discussion
+<td valign="top" style="margin-right: 5em; padding: 5px;">14:10-14:50</td><td style="padding: 5px;"><b> Discussion
   </b> </td> </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
