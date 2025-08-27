@@ -93,8 +93,8 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
 
         <div class="board-list">
             <ul>
-            <li> Standalone registration <a href="registration.html">open now...</a> </li>
-                <li> Registration via Interspeech <a href="https://www.interspeech2025.org/home">open now...</a></li>
+            <li> Standalone registration <a href="registration.html">closed</a> </li>
+                <li> Registration via Interspeech <a href="https://www.interspeech2025.org/home">closed</a></li>
              <!--   <li> Paper submission deadline 2nd June</li> -->
              <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>
@@ -104,7 +104,7 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
 
    <div class="board-list">
             <ul>
-            <li> <a href="programme.html">Full programme details now available...</a> </li>
+            <li> <a href="programme.html">Reports and papers now available.</a> </li>
             </ul>
         </div>
 

@@ -39,6 +39,8 @@ Timings and session details are provided below. All times are in local time (i.e
 
 <h1 id="keynote">Invited Talk</h1>
 
+<p style="font-style: italic; color: grey; font-size: 0.9em;">Session Chair: Jon Barker</p>
+
 <div class="card m-3 mt-4">
   <a name="keynote"></a>
 
@@ -86,6 +88,8 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 
 <h1 id="overview">Clarity Prediction Challenge</h1>
 
+The reports linked to the programme are the technical reports that were submitted with the challenge systems. Authors have been invited to extend these after the workshop and final versions will appear in the workshop proceeding in the ISCA archive at the end of September.
+
 <h2> Overview </h2>
 
 <div class="card  m-3">
@@ -120,49 +124,49 @@ Bernd T. Meyer received the Ph.D. degree from the University of Oldenburg, Germa
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 1</td><td style="padding: 5px;"><b> Non-Intrusive Multi-Branch Speech Intelligibility Prediction using Multi-Stage Training  </b><br /> <span class="author"> Ryandhimas E. Zezario<sup>1</sup>, Szu-Wei Fu<sup>2</sup>, Dyah A.M.G. Wisnu<sup>1,3</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup></span> <i>( <sup>1</sup>Academia Sinica; <sup>2</sup>NVIDIA; <sup>3</sup>National Chengchi University)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 1</td><td style="padding: 5px;"><b> Non-Intrusive Multi-Branch Speech Intelligibility Prediction using Multi-Stage Training  </b> <a href="./papers/CPC3_E011_report.pdf">[Report]</a> <br /> <span class="author"> Ryandhimas E. Zezario<sup>1</sup>, Szu-Wei Fu<sup>2</sup>, Dyah A.M.G. Wisnu<sup>1,3</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup></span> <i>( <sup>1</sup>Academia Sinica; <sup>2</sup>NVIDIA; <sup>3</sup>National Chengchi University)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 2</td><td style="padding: 5px;"><b> Domain-Adapted Automatic Speech Recognition with Deep Neural Networks for Enhanced Speech Intelligibility Prediction  </b><br /> <span class="author">Haeseung Jeon<sup>1</sup>, Jiwoo Hong<sup>1</sup>, Saeyeon Hong<sup>1</sup>, Hosung Kang<sup>1</sup>, Bona Kim<sup>1</sup>, Se Eun Oh<sup>1</sup>,
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 2</td><td style="padding: 5px;"><b> Domain-Adapted Automatic Speech Recognition with Deep Neural Networks for Enhanced Speech Intelligibility Prediction  </b><a href="./papers/CPC3_E014_report.pdf">[Report]</a><br /> <span class="author">Haeseung Jeon<sup>1</sup>, Jiwoo Hong<sup>1</sup>, Saeyeon Hong<sup>1</sup>, Hosung Kang<sup>1</sup>, Bona Kim<sup>1</sup>, Se Eun Oh<sup>1</sup>,
 and Noori Kim<sup>2</sup></span> <i>( <sup>1</sup>Ewha Womans University, South Korea; <sup>2</sup>Purdue University, US )</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 3</td><td style="padding: 5px;"><b> Predicting Intelligibility for Hearing-Impaired Listeners via Explicit Scores and Pre-trained Feature  </b><br /> <span class="author">Hanglei Zhang, Yanchen Li, Xiang Hao, Yufei Zhang, Jibin Wu, Kay Chen Tan</span> <i>(Hong Kong Polytechnic University, China)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 3</td><td style="padding: 5px;"><b> Predicting Intelligibility for Hearing-Impaired Listeners via Explicit Scores and Pre-trained Feature  </b><a href="./papers/CPC3_E017_report.pdf">[Report]</a><br /> <span class="author">Hanglei Zhang, Yanchen Li, Xiang Hao, Yufei Zhang, Jibin Wu, Kay Chen Tan</span> <i>(Hong Kong Polytechnic University, China)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 4</td><td style="padding: 5px;"><b> Non-Intrusive Speech Intelligibility Prediction Using Whisper ASR and Wavelet Scattering Embeddings for Hearing-Impaired Individuals  </b><br /> <span class="author">Rantu Buragohain<sup>1</sup>, Jejariya Ajaybhai<sup>1</sup>, Aashish Kumar Singh<sup>1</sup>, Karan Nathwani<sup>1</sup>, Sunil Kumar
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 4</td><td style="padding: 5px;"><b> Non-Intrusive Speech Intelligibility Prediction Using Whisper ASR and Wavelet Scattering Embeddings for Hearing-Impaired Individuals  </b><a href="./papers/CPC3_E019_report.pdf">[Report]</a><br /> <span class="author">Rantu Buragohain<sup>1</sup>, Jejariya Ajaybhai<sup>1</sup>, Aashish Kumar Singh<sup>1</sup>, Karan Nathwani<sup>1</sup>, Sunil Kumar
 Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jammu, India; <sup>2</sup>Tata Consultancy Services Limited Mumbai, India)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 5</td><td style="padding: 5px;"><b> Integrating Linguistic and Acoustic Cues for Machine Learning-Based Speech Intelligibility Prediction in Hearing Impairment  </b><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 5</td><td style="padding: 5px;"><b> Integrating Linguistic and Acoustic Cues for Machine Learning-Based Speech Intelligibility Prediction in Hearing Impairment  </b><a href="./papers/CPC3_E020c_report.pdf">[Report]</a><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 6</td><td style="padding: 5px;"><b> OSQA-SI: A Lightweight Non-Intrusive Analysis Model for Speech Intelligibility Prediction  </b><br /> <span class="author">Hsing-Ting, Chen, Po-Hsun Sung</span> <i>(Merry Electronics Co.)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 6</td><td style="padding: 5px;"><b> OSQA-SI: A Lightweight Non-Intrusive Analysis Model for Speech Intelligibility Prediction  </b><a href="./papers/CPC3_E022_report.pdf">[Report]</a><br /> <span class="author">Hsing-Ting, Chen, Po-Hsun Sung</span> <i>(Merry Electronics Co.)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 7</td><td style="padding: 5px;"><b> Non-intrusive Speech Intelligibility Prediction Model for Hearing Aids using Multi-domain Fused Features  </b><br /> <span class="author">Guojian Lin, Fei Chen</span> <i>(Southern University of Science and Technology, Shenzhen, China)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 7</td><td style="padding: 5px;"><b> Non-intrusive Speech Intelligibility Prediction Model for Hearing Aids using Multi-domain Fused Features  </b><a href="./papers/CPC3_E024_report.pdf">[Report]</a><br /> <span class="author">Guojian Lin, Fei Chen</span> <i>(Southern University of Science and Technology, Shenzhen, China)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 8</td><td style="padding: 5px;"><b> Word-level intelligibility model for the third Clarity Prediction Challenge  </b><br /> <span class="author">Mark Huckvale</span> <i>(University College London, UK)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 8</td><td style="padding: 5px;"><b> Word-level intelligibility model for the third Clarity Prediction Challenge  </b><a href="./papers/CPC3_E026_report.pdf">[Report]</a><br /> <span class="author">Mark Huckvale</span> <i>(University College London, UK)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 9</td><td style="padding: 5px;"><b> A Chorus of Whispers: Modeling Speech Intelligibility via Heterogeneous Whisper Decomposition  </b><br /> <span class="author">Longbin Jin, Donghun Min, Eun Yi Kim</span> <i>(Konkuk University, South Korea)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 9</td><td style="padding: 5px;"><b> A Chorus of Whispers: Modeling Speech Intelligibility via Heterogeneous Whisper Decomposition  </b><a href="./papers/CPC3_E032_report.pdf">[Report]</a><br /> <span class="author">Longbin Jin, Donghun Min, Eun Yi Kim</span> <i>(Konkuk University, South Korea)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 10</td><td style="padding: 5px;"><b> Speech intelligibility prediction based on syllable tokenizer  </b><br /> <span class="author">Szymon Drgas</span> <i>(Poznan University of Technology, Poland)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 10</td><td style="padding: 5px;"><b> Speech intelligibility prediction based on syllable tokenizer  </b><a href="./papers/CPC3_E039_report.pdf">[Report]</a><br /> <span class="author">Szymon Drgas</span> <i>(Poznan University of Technology, Poland)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Modeling normal and impaired hearing with deep neural networks optimized for ecological tasks </b><br /> <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 11</td><td style="padding: 5px;"><b> Modeling normal and impaired hearing with deep neural networks optimized for ecological tasks </b><a href="./papers/CPC3_E035_report.pdf">[Report]</a><br /> <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i></td>
 </tr>
 
 </tbody>
@@ -183,17 +187,17 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">12:10-12:30</td><td style="padding: 5px;"><b> Lightweight Speech Intelligibility Prediction with Spectro-Temporal Modulation for Hearing-Impaired Listeners
-  </b><br /> <span class="author">Xiajie Zhou, Candy Olivia Mawalim, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i> </td>
+  </b><a href="./papers/CPC3_E020a_report.pdf">[Report]</a><br /> <span class="author">Xiajie Zhou, Candy Olivia Mawalim, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i> </td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">12:30-12:50</td><td style="padding: 5px;"><b> Intrusive Intelligibility Prediction with ASR Encoders
-  </b><br />  <span class="author">Hanlin Yu<sup>1</sup>, Haoshuai Zhou<sup>2</sup>, Linkai Li<sup>2,3</sup>, Boxuan Cao<sup>2</sup>, Changgeng Mo<sup>2</sup>, Shan Xiang Wang<sup>3</sup></span> <i>( <sup>1</sup>University of British Columbia,Canada; <sup>2</sup>Orka Labs Inc., China; <sup>3</sup>Stanford University, US)</i> </td>
+  </b><a href="./papers/CPC3_E025_report.pdf">[Report]</a><br />  <span class="author">Hanlin Yu<sup>1</sup>, Haoshuai Zhou<sup>2</sup>, Linkai Li<sup>2,3</sup>, Boxuan Cao<sup>2</sup>, Changgeng Mo<sup>2</sup>, Shan Xiang Wang<sup>3</sup></span> <i>( <sup>1</sup>University of British Columbia,Canada; <sup>2</sup>Orka Labs Inc., China; <sup>3</sup>Stanford University, US)</i> </td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">12:50-13:10</td><td style="padding: 5px;"><b> Towards individualized models of hearing-impaired speech perception
-  </b><br />  <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i> </td>
+  </b><a href="./papers/CPC3_E035_report.pdf">[Paper]</a><br />  <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i> </td>
 </tr>
 
 </tbody>
