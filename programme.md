@@ -99,7 +99,7 @@ The reports linked to the programme are the technical reports that were submitte
 <tbody>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">10:30-10:50</td><td style="padding: 5px;"><b> The 3rd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b>  <a href="./slides/clarity2025_cpc3_overview.pdf">[Slides]</a> <br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Jennifer Firth<sup>2</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> ( <sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i> </td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">10:30-10:50</td><td style="padding: 5px;"><b> The 3rd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b>  <a href="./slides/clarity2025_cpc3_overview.pdf">[Slides]</a> <a href="https://www.isca-archive.org/clarity_2025/barker25_clarity.html">[Abstract]</a> <br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Jennifer Firth<sup>2</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> ( <sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i> </td>
 </tr>
 
 </tbody>
@@ -124,11 +124,11 @@ The reports linked to the programme are the technical reports that were submitte
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 1</td><td style="padding: 5px;"><b> Non-Intrusive Multi-Branch Speech Intelligibility Prediction using Multi-Stage Training  </b> <a href="./papers/CPC3_E011_report.pdf">[Report]</a> <br /> <span class="author"> Ryandhimas E. Zezario<sup>1</sup>, Szu-Wei Fu<sup>2</sup>, Dyah A.M.G. Wisnu<sup>1,3</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup></span> <i>( <sup>1</sup>Academia Sinica; <sup>2</sup>NVIDIA; <sup>3</sup>National Chengchi University)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 1</td><td style="padding: 5px;"><b> Non-Intrusive Multi-Branch Speech Intelligibility Prediction using Multi-Stage Training  </b> <a href="https://www.isca-archive.org/clarity_2025/zezario25_clarity.html">[Paper]</a> <br /> <span class="author"> Ryandhimas E. Zezario<sup>1</sup>, Szu-Wei Fu<sup>2</sup>, Dyah A.M.G. Wisnu<sup>1,3</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup></span> <i>( <sup>1</sup>Academia Sinica; <sup>2</sup>NVIDIA; <sup>3</sup>National Chengchi University)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 2</td><td style="padding: 5px;"><b> Domain-Adapted Automatic Speech Recognition with Deep Neural Networks for Enhanced Speech Intelligibility Prediction  </b><a href="./papers/CPC3_E014_report.pdf">[Report]</a><br /> <span class="author">Haeseung Jeon<sup>1</sup>, Jiwoo Hong<sup>1</sup>, Saeyeon Hong<sup>1</sup>, Hosung Kang<sup>1</sup>, Bona Kim<sup>1</sup>, Se Eun Oh<sup>1</sup>,
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 2</td><td style="padding: 5px;"><b> Domain-Adapted Automatic Speech Recognition with Deep Neural Networks for Enhanced Speech Intelligibility Prediction  </b><a href="https://www.isca-archive.org/clarity_2025/jeon25_clarity.html">[Paper]</a><br /> <span class="author">Haeseung Jeon<sup>1</sup>, Jiwoo Hong<sup>1</sup>, Saeyeon Hong<sup>1</sup>, Hosung Kang<sup>1</sup>, Bona Kim<sup>1</sup>, Se Eun Oh<sup>1</sup>,
 and Noori Kim<sup>2</sup></span> <i>( <sup>1</sup>Ewha Womans University, South Korea; <sup>2</sup>Purdue University, US )</i></td>
 </tr>
 
@@ -137,32 +137,32 @@ and Noori Kim<sup>2</sup></span> <i>( <sup>1</sup>Ewha Womans University, South 
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 4</td><td style="padding: 5px;"><b> Non-Intrusive Speech Intelligibility Prediction Using Whisper ASR and Wavelet Scattering Embeddings for Hearing-Impaired Individuals  </b><a href="./papers/CPC3_E019_report.pdf">[Report]</a><br /> <span class="author">Rantu Buragohain<sup>1</sup>, Jejariya Ajaybhai<sup>1</sup>, Aashish Kumar Singh<sup>1</sup>, Karan Nathwani<sup>1</sup>, Sunil Kumar
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 4</td><td style="padding: 5px;"><b> Non-Intrusive Speech Intelligibility Prediction Using Whisper ASR and Wavelet Scattering Embeddings for Hearing-Impaired Individuals  </b><a href="https://www.isca-archive.org/clarity_2025/buragohain25_clarity.html">[Paper]</a><br /> <span class="author">Rantu Buragohain<sup>1</sup>, Jejariya Ajaybhai<sup>1</sup>, Aashish Kumar Singh<sup>1</sup>, Karan Nathwani<sup>1</sup>, Sunil Kumar
 Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jammu, India; <sup>2</sup>Tata Consultancy Services Limited Mumbai, India)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 5</td><td style="padding: 5px;"><b> Integrating Linguistic and Acoustic Cues for Machine Learning-Based Speech Intelligibility Prediction in Hearing Impairment  </b><a href="./papers/CPC3_E020c_report.pdf">[Report]</a><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 5</td><td style="padding: 5px;"><b> Integrating Linguistic and Acoustic Cues for Machine Learning-Based Speech Intelligibility Prediction in Hearing Impairment  </b><a href="https://www.isca-archive.org/clarity_2025/mawalim25_clarity.html">[Paper]</a><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 6</td><td style="padding: 5px;"><b> OSQA-SI: A Lightweight Non-Intrusive Analysis Model for Speech Intelligibility Prediction  </b><a href="./papers/CPC3_E022_report.pdf">[Report]</a><br /> <span class="author">Hsing-Ting, Chen, Po-Hsun Sung</span> <i>(Merry Electronics Co.)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 6</td><td style="padding: 5px;"><b> OSQA-SI: A Lightweight Non-Intrusive Analysis Model for Speech Intelligibility Prediction  </b><a href="https://www.isca-archive.org/clarity_2025/chen25_clarity.html">[Paper]</a><br /> <span class="author">Hsing-Ting, Chen, Po-Hsun Sung</span> <i>(Merry Electronics Co.)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 7</td><td style="padding: 5px;"><b> Non-intrusive Speech Intelligibility Prediction Model for Hearing Aids using Multi-domain Fused Features  </b><a href="./papers/CPC3_E024_report.pdf">[Report]</a><br /> <span class="author">Guojian Lin, Fei Chen</span> <i>(Southern University of Science and Technology, Shenzhen, China)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 7</td><td style="padding: 5px;"><b> Non-intrusive Speech Intelligibility Prediction Model for Hearing Aids using Multi-domain Fused Features  </b><a href="https://www.isca-archive.org/clarity_2025/lin25_clarity.html">[Paper]</a><br /> <span class="author">Guojian Lin, Fei Chen</span> <i>(Southern University of Science and Technology, Shenzhen, China)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 8</td><td style="padding: 5px;"><b> Word-level intelligibility model for the third Clarity Prediction Challenge  </b><a href="./papers/CPC3_E026_report.pdf">[Report]</a><br /> <span class="author">Mark Huckvale</span> <i>(University College London, UK)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 8</td><td style="padding: 5px;"><b> Word-level intelligibility model for the third Clarity Prediction Challenge  </b><a href="https://www.isca-archive.org/clarity_2025/huckvale25_clarity.html">[Paper]</a><br /> <span class="author">Mark Huckvale</span> <i>(University College London, UK)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 9</td><td style="padding: 5px;"><b> A Chorus of Whispers: Modeling Speech Intelligibility via Heterogeneous Whisper Decomposition  </b><a href="./papers/CPC3_E032_report.pdf">[Report]</a><br /> <span class="author">Longbin Jin, Donghun Min, Eun Yi Kim</span> <i>(Konkuk University, South Korea)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 9</td><td style="padding: 5px;"><b> A Chorus of Whispers: Modeling Speech Intelligibility via Heterogeneous Whisper Decomposition  </b><a href="https://www.isca-archive.org/clarity_2025/jin25_clarity.html">[Paper]</a><br /> <span class="author">Longbin Jin, Donghun Min, Eun Yi Kim</span> <i>(Konkuk University, South Korea)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 10</td><td style="padding: 5px;"><b> Speech intelligibility prediction based on syllable tokenizer  </b><a href="./papers/CPC3_E039_report.pdf">[Report]</a><br /> <span class="author">Szymon Drgas</span> <i>(Poznan University of Technology, Poland)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">Poster 10</td><td style="padding: 5px;"><b> Speech intelligibility prediction based on syllable tokenizer  </b><a href="https://www.isca-archive.org/clarity_2025/drgas25_clarity.html">[Paper]</a><br /> <span class="author">Szymon Drgas</span> <i>(Poznan University of Technology, Poland)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
@@ -187,17 +187,17 @@ Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jam
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">12:10-12:30</td><td style="padding: 5px;"><b> Lightweight Speech Intelligibility Prediction with Spectro-Temporal Modulation for Hearing-Impaired Listeners
-  </b><a href="./papers/CPC3_E020a_report.pdf">[Report]</a><br /> <span class="author">Xiajie Zhou, Candy Olivia Mawalim, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i> </td>
+  </b><a href="https://www.isca-archive.org/clarity_2025/zhou25_clarity.html">[Paper]</a><br /> <span class="author">Xiajie Zhou, Candy Olivia Mawalim, Huy Quoc Nguyen, Masashi Unoki</span> <i>(JAIST, Japan)</i> </td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">12:30-12:50</td><td style="padding: 5px;"><b> Intrusive Intelligibility Prediction with ASR Encoders
-  </b><a href="./papers/CPC3_E025_report.pdf">[Report]</a><br />  <span class="author">Hanlin Yu<sup>1</sup>, Haoshuai Zhou<sup>2</sup>, Linkai Li<sup>2,3</sup>, Boxuan Cao<sup>2</sup>, Changgeng Mo<sup>2</sup>, Shan Xiang Wang<sup>3</sup></span> <i>( <sup>1</sup>University of British Columbia,Canada; <sup>2</sup>Orka Labs Inc., China; <sup>3</sup>Stanford University, US)</i> </td>
+  </b><a href="https://www.isca-archive.org/clarity_2025/yu25_clarity.html">[Paper]</a><br />  <span class="author">Hanlin Yu<sup>1</sup>, Haoshuai Zhou<sup>2</sup>, Linkai Li<sup>2,3</sup>, Boxuan Cao<sup>2</sup>, Changgeng Mo<sup>2</sup>, Shan Xiang Wang<sup>3</sup></span> <i>( <sup>1</sup>University of British Columbia,Canada; <sup>2</sup>Orka Labs Inc., China; <sup>3</sup>Stanford University, US)</i> </td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">12:50-13:10</td><td style="padding: 5px;"><b> Towards individualized models of hearing-impaired speech perception
-  </b><a href="./papers/CPC3_E035_report.pdf">[Paper]</a><br />  <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i> </td>
+  </b><a href="https://www.isca-archive.org/clarity_2025/saddler25_clarity.html">[Paper]</a><br />  <span class="author">Mark R. Saddler<sup>1</sup>, Torsten Dau<sup>1</sup>, Josh H. McDermott<sup>2</sup></span> <i>( <sup>1</sup>DTU, Denmark; <sup>2</sup>MIT, US)</i> </td>
 </tr>
 
 </tbody>
@@ -256,20 +256,20 @@ The session will consist of oral presentations each of up to 20 minutes with 5 m
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td valign="top" style="margin-right: 5em; padding: 5px;">15:20-15:45</td><td style="padding: 5px;"><b> The Dawn of Psychoacoustic Reverse Correlation: A Data-Driven Methodology for Determining Fine Grained Perceptual Cues of Speech Clarity
-  </b><a href="./papers/clarity2025_prefinal_tuttosi.pdf">[Paper]</a> <br /> <span class="author">Paige Tuttösi<sup>1</sup>, Henny Yeung<sup>1</sup>, Yue Wang<sup>1</sup>, Jean-Julien Aucouturier<sup>2</sup>, Angelica Lim<sup>1</sup>
+  </b><a href="https://www.isca-archive.org/clarity_2025/tuttosi25_clarity.html">[Paper]</a> <br /> <span class="author">Paige Tuttösi<sup>1</sup>, Henny Yeung<sup>1</sup>, Yue Wang<sup>1</sup>, Jean-Julien Aucouturier<sup>2</sup>, Angelica Lim<sup>1</sup>
 </span> ( <i><sup>1</sup>Simon Fraser University, US; <sup>2</sup>Institut FEMTO-ST, France</i>)</td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">15:45-16:10</td><td style="padding: 5px;"><b> TF-MLPNet: Tiny Real-Time Neural Speech Separation  </b><a href="./papers/clarity2025_prefinal_itani.pdf">[Paper]</a> <br /> <span class="author">Malek Itani, Tuochao Chen, Shyam Gollakota </span> (<i>University of Washington, US</i>)</td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">15:45-16:10</td><td style="padding: 5px;"><b> TF-MLPNet: Tiny Real-Time Neural Speech Separation  </b><a href="https://www.isca-archive.org/clarity_2025/itani25_clarity.html">[Paper]</a> <br /> <span class="author">Malek Itani, Tuochao Chen, Shyam Gollakota </span> (<i>University of Washington, US</i>)</td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">16:10-16:35</td><td style="padding: 5px;"><b> Controllable joint noise reduction and hearing loss compensation using a differentiable auditory model  </b><a href="./papers/clarity2025_prefinal_gonzalez.pdf">[Paper]</a> <br /> <span class="author">Philippe Gonzalez, Tobias May, Torstan Dau</span> <i>(Technical University of Denmark)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:10-16:35</td><td style="padding: 5px;"><b> Controllable joint noise reduction and hearing loss compensation using a differentiable auditory model  </b><a href="https://www.isca-archive.org/clarity_2025/gonzalez25_clarity.html">[Paper]</a> <br /> <span class="author">Philippe Gonzalez, Tobias May, Torstan Dau</span> <i>(Technical University of Denmark)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><a href="./papers/clarity2025_prefinal_rahimi.pdf">[Paper]</a> <br /> <span class="author">Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">16:35-17:00</td><td style="padding: 5px;"><b> Say Who You Want to Hear: Leveraging TTS Style Embeddings for Text-Guided Speech Extraction  </b><a href="https://www.isca-archive.org/clarity_2025/rahimi25_clarity.html">[Paper]</a> <br /> <span class="author">Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman</span> <i>(University of Oxford, UK)</i></td>
 </tr>
 
 </tbody>

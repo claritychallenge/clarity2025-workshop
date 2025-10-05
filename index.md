@@ -15,6 +15,10 @@ title: Improving speech-in-noise for hearing devices (Clarity-2025)
       <button class="btn btn-primary">Click here to register me for the Clarity 2025 Workshop!</button>
     </a> -->
 
+<div class="alert alert-info" role="alert">
+The workshop has now concluded. Explore the full record of the event, with YouTube videos, slides, and abstracts, on the <a href="programme">programme page</a>, or view the <a href="https://www.isca-archive.org/clarity_2025/index.html">proceedings at the ISCA Archive</a>.
+</div>
+
 We are now pleased to announce the <strong>6th Clarity Workshop for Improving Speech-in-Noise for Hearing Devices</strong>, to be collocated with Interspeech 2025, in Delft, close to Rotterdam, The Netherlands. This will be an in-person Clarity event, following the format of the <a href="https://claritychallenge.org/clarity2023-workshop/">4th</a> Clarity workshop that was a satellite of Interspeech 2023.
 
 <section>
@@ -113,6 +117,8 @@ Clarity-2025 will host the 3rd Clarity Prediction Challenge, focused on developi
             <ul>
             <li> <a href="results.html">Full CPC3 results now available.</a> </li>
             </ul>
+            <ul>
+            <li> Proceedings available at <a href="https://www.isca-archive.org/clarity_2025/index.html">ISCA Archive</a> </li>
         </div>
 
         <!--     <h2> Submission </h2>

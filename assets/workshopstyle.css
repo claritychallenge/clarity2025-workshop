@@ -84,3 +84,21 @@ h3 {
   padding: -20px;
   margin: 0px 0px 0px -20px;
 }
+
+.alert-info {
+  background-color: #ffffff;
+  border: 2px solid #882885;
+  color: #000000;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.alert-info a {
+  color: #521850;
+  font-weight: bold;
+}
+
+.alert-info a:hover {
+  color: #882885;
+  text-decoration: underline;
+}

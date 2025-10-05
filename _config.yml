@@ -32,12 +32,13 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - dates.md
-  - registration.md
-  - submissions.md
-  - programme.md
-  - results.md
+  # - registration.md
+  #  - submissions.md
   - venue.md
   - organisers.md
+  - programme.md
+  - results.md
+  - proceedings.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

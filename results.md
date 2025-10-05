@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Results
+title: CPC3 Results
 ---
 
 <div class="panel panel-default">
