@@ -13,3 +13,21 @@ $clarity-red: #882885 !default;
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
 @import "clarity";
+
+.alert-info {
+  background-color: #ffffff !important;
+  border: 2px solid #882885 !important;
+  color: #000000 !important;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.alert-info a {
+  color: #521850 !important;
+  font-weight: bold;
+}
+
+.alert-info a:hover {
+  color: #882885 !important;
+  text-decoration: underline;
+}
