@@ -97,7 +97,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E025</td>
-      <td> <a href="./papers/CPC3_E025_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/yu25_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td>22.36</td>
       <td>24.98</td>
@@ -107,7 +107,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E019</td>
-      <td> <a href="./papers/CPC3_E019_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/buragohain25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>21.87</td>
       <td>25.31</td>
@@ -117,7 +117,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E011a</td>
-      <td> <a href="./papers/CPC3_E011_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/zezario25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>22.80</td>
       <td>25.54</td>
@@ -127,7 +127,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E020a</td>
-      <td> <a href="./papers/CPC3_E020a_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/zhou25_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td>23.15</td>
       <td>25.60</td>
@@ -137,7 +137,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E014</td>
-      <td> <a href="./papers/CPC3_E014_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/jeon25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>22.95</td>
       <td>25.82</td>
@@ -147,7 +147,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E011c</td>
-      <td> <a href="./papers/CPC3_E011_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/zezario25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>22.89</td>
       <td>25.83</td>
@@ -157,7 +157,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E032</td>
-      <td> <a href="./papers/CPC3_E032_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/jin25_clarity.html">[paper]</a> </td>
       <td>Yes (Text)</td>
       <td>23.60</td>
       <td>25.99</td>
@@ -167,7 +167,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E020b</td>
-      <td> <a href="./papers/CPC3_E020a_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/zhou25_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td>23.47</td>
       <td>26.02</td>
@@ -177,7 +177,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E011b</td>
-      <td> <a href="./papers/CPC3_E011_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/zezario25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>22.89</td>
       <td>26.12</td>
@@ -187,7 +187,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E020c</td>
-      <td> <a href="./papers/CPC3_E020c_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/mawalim25_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td>24.81</td>
       <td>26.14</td>
@@ -207,7 +207,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E024b</td>
-      <td> <a href="./papers/CPC3_E024_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/lin25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>24.74</td>
       <td>26.58</td>
@@ -217,7 +217,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E026</td>
-      <td> <a href="./papers/CPC3_E026_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/huckvale25_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td>24.64</td>
       <td>26.90</td>
@@ -227,7 +227,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E039</td>
-      <td> <a href="./papers/CPC3_E039_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/drgas5_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td>25.61</td>
       <td>27.00</td>
@@ -237,7 +237,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E024a</td>
-      <td> <a href="./papers/CPC3_E024_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/lin25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>24.18</td>
       <td>27.11</td>
@@ -257,7 +257,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E035</td>
-      <td> <a href="./papers/CPC3_E035_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/saddler25_clarity.html">[paper]</a> </td>
       <td>Yes</td>
       <td></td>
       <td>27.87</td>
@@ -287,7 +287,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E020c-ni</td>
-      <td> <a href="./papers/CPC3_E020c_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/mawalim25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>30.16</td>
       <td>32.74</td>
@@ -297,7 +297,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E022a</td>
-      <td> <a href="./papers/CPC3_E022_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/chen25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>31.11</td>
       <td>33.97</td>
@@ -307,7 +307,7 @@ Results of the <a href="https://claritychallenge.org/docs/cpc3/cpc3_intro">3rd C
     <tr>
       <td></td>
       <td>E022b</td>
-      <td> <a href="./papers/CPC3_E022_report.pdf">[paper]</a> </td>
+      <td> <a href="https://www.isca-archive.org/clarity_2025/chen25_clarity.html">[paper]</a> </td>
       <td>No</td>
       <td>33.10</td>
       <td>35.48</td>
@@ -347,7 +347,7 @@ First place prize,  1000 GPB
 
 <tr>
 <td style="padding: 5px;"> <span class="author">Hanlin Yu<sup>1</sup>, Haoshuai Zhou<sup>2</sup>, Linkai Li<sup>2,3</sup>, Boxuan Cao<sup>2</sup>, Changgeng Mo<sup>2</sup>, Shan Xiang Wang<sup>3</sup></span> <i>( <sup>1</sup>University of British Columbia,Canada; <sup>2</sup>Orka Labs Inc., China; <sup>3</sup>Stanford University, US)</i>, for their work: <br/> <b> Intrusive Intelligibility Prediction with ASR Encoders
-  </b><a href="./papers/CPC3_E025_report.pdf">[Report]</a> </td>
+  </b><a href="https://www.isca-archive.org/clarity_2025/yu25_clarity.html">[Paper]</a> </td>
 </tr>
 
 </tbody>
@@ -367,7 +367,7 @@ Second place prize,  500 GPB
 <tr>
 
 <td style="padding: 5px;"> <span class="author">Rantu Buragohain<sup>1</sup>, Jejariya Ajaybhai<sup>1</sup>, Aashish Kumar Singh<sup>1</sup>, Karan Nathwani<sup>1</sup>, Sunil Kumar
-Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jammu, India; <sup>2</sup>Tata Consultancy Services Limited Mumbai, India)</i>, for their work: <br/> <b> Non-Intrusive Speech Intelligibility Prediction Using Whisper ASR and Wavelet Scattering Embeddings for Hearing-Impaired Individuals  </b><a href="./papers/CPC3_E019_report.pdf">[Report]</a></td>
+Kopparapu<sup>2</sup></span> <i>( <sup>1</sup>Indian Institute of Technology Jammu, India; <sup>2</sup>Tata Consultancy Services Limited Mumbai, India)</i>, for their work: <br/> <b> Non-Intrusive Speech Intelligibility Prediction Using Whisper ASR and Wavelet Scattering Embeddings for Hearing-Impaired Individuals  </b><a href="https://www.isca-archive.org/clarity_2025/buragohain25_clarity.html">[Paper]</a></td>
 
 </tr>
 
@@ -386,7 +386,7 @@ Third place prize,  250 GPB
 
 <tr>
 
-<td style="padding: 5px;"><span class="author"> Ryandhimas E. Zezario<sup>1</sup>, Szu-Wei Fu<sup>2</sup>, Dyah A.M.G. Wisnu<sup>1,3</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup></span> <i>( <sup>1</sup>Academia Sinica; <sup>2</sup>NVIDIA; <sup>3</sup>National Chengchi University)</i>, for their work: <br /> <b> Non-Intrusive Multi-Branch Speech Intelligibility Prediction using Multi-Stage Training  </b> <a href="./papers/CPC3_E011_report.pdf">[Report]</a>  </td>
+<td style="padding: 5px;"><span class="author"> Ryandhimas E. Zezario<sup>1</sup>, Szu-Wei Fu<sup>2</sup>, Dyah A.M.G. Wisnu<sup>1,3</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup></span> <i>( <sup>1</sup>Academia Sinica; <sup>2</sup>NVIDIA; <sup>3</sup>National Chengchi University)</i>, for their work: <br /> <b> Non-Intrusive Multi-Branch Speech Intelligibility Prediction using Multi-Stage Training  </b> <a href="https://www.isca-archive.org/clarity_2025/zezario25_clarity.html">[Paper]</a>  </td>
 
 </tr>
 
